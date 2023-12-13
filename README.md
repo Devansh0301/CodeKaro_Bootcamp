@@ -10,5 +10,5 @@
     - ![Assignment2_output](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/02a7eaf8-b6fb-409a-95aa-9d9c46e95474)
 
 -[ASSIGNMENT3](https://github.com/Devansh0301/CodeKaro_Bootcamp/blob/main/DAY!/Assignment3.js)
-      - ![image](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/21642771-7d41-4f00-aee3-de5deccb716c)
-      - ![image](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/47922115-caa3-424c-9fb1-5b53ff3a8fa7)
+   - ![image](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/21642771-7d41-4f00-aee3-de5deccb716c)
+   - ![image](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/47922115-caa3-424c-9fb1-5b53ff3a8fa7)
