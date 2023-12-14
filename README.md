@@ -17,7 +17,7 @@
 
 
 
-## [DAY2}(https://github.com/Devansh0301/CodeKaro_Bootcamp/tree/main/Day2)
+## [DAY2](https://github.com/Devansh0301/CodeKaro_Bootcamp/tree/main/Day2)
 
 - [ASSIGNMENT](https://github.com/Devansh0301/CodeKaro_Bootcamp/blob/main/Day2/Assignment.js)
    - ![1](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/9476420a-e21c-4401-b0ec-e2fc324c6e75)
