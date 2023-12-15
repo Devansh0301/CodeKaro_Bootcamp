@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Names</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;  
+            padding: 0; 
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center; 
+            text-align: center;
+            flex-direction: column; /* Align items vertically */
+        }
+        #nameDisplay {
+            margin-bottom: 10px; /* Add some space between the name and buttons */
+        }
+        .button-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="nameDisplay" style="font-size: 100px;">Aarav</div>
+    <div class="button-container" >
+        <button id="prevButton"  style="font-size: 25px;">Previous</button>
+        <button id="nextButton"  style="font-size: 25px;">Next</button>
+    </div>
+    
+    <script src="1.js"></script>
+</body>
+</html>
