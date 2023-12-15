@@ -1,6 +1,7 @@
 # CodeKaro_Bootcamp
 
-## [DAY1](https://github.com/Devansh0301/CodeKaro_Bootcamp/tree/main/DAY!)
+## [DAY1](https://github.com/Devansh0301/CodeKaro_Bootcamp/tree/main/DAY!)  
+### [Question](https://github.com/Devansh0301/CodeKaro_Bootcamp/blob/main/DAY!/Question)
 
 - [ASSIGNMENT1](https://github.com/Devansh0301/CodeKaro_Bootcamp/blob/main/DAY!/Assignment1.js)
    - ![Assignment1_code](https://github.com/Devansh0301/CodeKaro_Bootcamp/assets/130764624/13c78dba-aff7-4aab-b912-72cf11cb4265)
