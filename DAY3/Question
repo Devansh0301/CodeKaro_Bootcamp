@@ -1,0 +1,32 @@
+How to Javascript : Assignment 3
+Complete the following assignments.
+
+Assignment 1: Change Background Color
+
+Title: Change Background Color Assignment
+
+Instructions:
+1. Create an HTML document with a title element.
+2. Add a heading (e.g., `<h1>Click anywhere on the page to change the background color!</h1>`) to explain the assignment's purpose.
+3. Write a JavaScript function called `getRandomColor()` that generates a random color.
+4. Write another JavaScript function called `changeBackgroundColor()` that sets the background color of the document's body to the random color obtained from `getRandomColor()`.
+5. Add an onclick event to the entire document that calls the `changeBackgroundColor()` function whenever the user clicks anywhere on the page.
+6. Test the assignment by opening the HTML document in a web browser. Verify that clicking anywhere on the page changes the background color.
+
+Assignment 2: display names
+
+const names = [ "Aarav", "Sanya", "Vikram", "Neha", "Rohan", "Priya", "Amit", "Meera", "Rajiv", "Ananya" ];
+
+You have been provided with an array of 10 Indian names. 
+Your task is to create a simple web page featuring two buttons: "Next" and "Previous". 
+Using these buttons, display the names sequentially, one at a time. 
+
+Here's how to proceed: Array of Indian Names: Use the given array containing 10 Indian names to start the assignment. 
+
+Button Setup: Design an HTML page with a space to display the names and include the "Next" and "Previous" buttons for navigation. 
+
+Initial Display: Upon loading the page, show the first name from the array. 
+
+Next Button Functionality: When the "Next" button is clicked, display the next name in the array. If you reach the end of the array, wrap around to the beginning. 
+
+Previous Button Functionality: Clicking the "Previous" button should show the previous name in the array. If you're at the beginning, loop back to the end of the array.
